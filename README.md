@@ -9,4 +9,5 @@
 - 📈 Statistics
   
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YacineKhalil&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true)
+
